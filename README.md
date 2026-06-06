@@ -9,7 +9,7 @@
 ```
 ├── clusterizacao-iris-gmm.ipynb       # Challenge 1 — GMM clustering on Iris
 ├── deteccao_anomalia_pulsar.ipynb     # Challenge 2 — LOF anomaly detection on Pulsar
-└── dataset/
+└── datasets/
     └── pulsar.csv                     # Pulsar stars dataset
 ```
 
